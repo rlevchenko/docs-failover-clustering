@@ -1,4 +1,3 @@
-# docs-failover-clustering
 # Failover clustering guides and docs
 
 - What's new in Failover Clustering in Windows Server 2016 
